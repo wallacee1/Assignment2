@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Write\ a\ description\ of\ class\ Book\ here.\n\n\ @author\ Eric\ Wallace\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=lastName\ firstName\ ISBN\ title\ publicationDate\ numberOfPages
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Book\n
+comment2.params=
+comment2.target=java.lang.String\ getLastName()
+comment2.text=\n\ Access\ the\ author's\ last\ name.\n\n
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment3.text=\n\ Access\ the\ author's\ first\ name.\n\n
+comment4.params=
+comment4.target=java.lang.String\ getISBN()
+comment4.text=\n\ Access\ the\ book's\ ISBN.\n\n
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment5.text=\n\ Access\ the\ book's\ title.\n\n
+comment6.params=
+comment6.target=java.lang.String\ getPublicationDate()
+comment6.text=\n\ Access\ the\ date\ the\ book\ was\ published.\n\n
+comment7.params=
+comment7.target=int\ getNumberOfPages()
+comment7.text=\n\ Access\ the\ number\ of\ pages\ in\ the\ book.\n\n
+numComments=8
