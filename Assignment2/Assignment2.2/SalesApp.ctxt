@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SalesApp
+comment0.text=\n\ Write\ a\ description\ of\ class\ SalesApp\ here.\n\n\ @author\ Eric\ Wallace\n\ @version\ 1.0\n
+comment1.params=design
+comment1.target=SalesApp(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SalesApp\n
+comment2.params=
+comment2.target=double\ calculateCost()
+comment2.text=\n\ Determine\ the\ base\ cost\ for\ selected\ design.\n
+comment3.params=features
+comment3.target=void\ addFeature(java.lang.String)
+comment3.text=\n\ Feature\ add-ons.\n
+comment4.params=
+comment4.target=java.lang.String\ getDesign()
+comment4.text=\n\ Accessor\ for\ selected\ design.\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment5.params=design
+comment5.target=void\ setDesign(java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ getFeatures()
+comment7.params=features
+comment7.target=void\ setFeatures(java.util.ArrayList)
+comment8.params=
+comment8.target=double\ getCost()
+numComments=9
